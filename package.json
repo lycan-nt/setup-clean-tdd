@@ -1,0 +1,19 @@
+{
+  "name": "setup-clean-tdd",
+  "version": "1.0.0",
+  "description": "This is a project created to practice clean code and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lycan-nt/setup-clean-tdd.git"
+  },
+  "author": "Felipe D. Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lycan-nt/setup-clean-tdd/issues"
+  },
+  "homepage": "https://github.com/lycan-nt/setup-clean-tdd#readme"
+}
